@@ -1,0 +1,4 @@
+[
+    {"title": "The Alchemist" , "author": "Paulo Coelho", "Price":12.99, "in_stock":true},
+    {"title":"1984", "author": "George Orwell" ,"Price":9.99 , "in_stock":true}
+]
